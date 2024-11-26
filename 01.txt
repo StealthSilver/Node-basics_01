@@ -1,0 +1,8 @@
+NODE JS
+
+this is a JS runtime enviornment
+it is used for server side programming
+
+NODE js is not a language, library or framework
+
+VS code is built on node js
