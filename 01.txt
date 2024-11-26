@@ -46,8 +46,15 @@ the require finds the index.js file and this is the entry point for the director
 04.js 
 
 NPM -> node package manager
+npmjs.com
 
 this is the standard packages for Node js (library of packages)
 packages are the codes made by other developers which we can use
 
 this is also a command line tool , this is pre installed with node
+
+INSTALLING PACKAGES 
+
+npm install <name of the package>
+
+the scope of the package is just inside the directory in which it is installed
