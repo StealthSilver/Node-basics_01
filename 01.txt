@@ -6,3 +6,19 @@ it is used for server side programming
 NODE js is not a language, library or framework
 
 VS code is built on node js
+
+NODE REPL
+
+read evaluate print loop
+
+we can use the node REPL in terminal and run js code
+
+NODE FILES
+
+we can run the JS files by node "filename"
+
+PROCESS
+
+process : this object provides the info about, and control over, the current node js process.
+
+process.argv: returns an array containing the command-line argumrnts passed when the Node js process was launched
