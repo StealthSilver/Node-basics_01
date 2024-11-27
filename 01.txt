@@ -70,3 +70,23 @@ Packgae.json -> the package.json file contains descriptive and functional metada
 
 npm init -> to initialize the package.json
 
+we can share package.json to share all the dependency file info
+
+we can also install packages globally
+npm i -g <name of the package>
+
+
+04.js, math2.js
+
+IMPORT MODULES 
+using the export and the import keyword
+
+we have to add "type" : "module" in package.json to use import, export
+
+require vs import
+
+we can't selectively inport the needed piecces with require. w can selectively load pieces with inport which saves memory
+
+loading is synchronous for require but can be asynchronous for import
+
+there are some npm packages which we can import directly , e.g. random-words
