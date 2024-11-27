@@ -58,3 +58,15 @@ INSTALLING PACKAGES
 npm install <name of the package>
 
 the scope of the package is just inside the directory in which it is installed
+
+node_modules -> the node modules folder contains every installed dependency for your project
+
+package-lock.json -> it records the exact version of every installed dependency. Inclusing its sub-dependencies and their versions
+
+npm i figlet to install figlet
+
+
+Packgae.json -> the package.json file contains descriptive and functional metadata about a project, such as a name, version and dependencies
+
+npm init -> to initialize the package.json
+
